@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 50
@@ -15,7 +15,8 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 
+date_format: Jan 2006
+
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
