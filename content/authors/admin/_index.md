@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Demagio 
+title: Demagio Mansell
 
 # Is this the primary user of the site?
 superuser: true
