@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: 80%
   icon: fas fa-file-pdf
   icon_pack: fas
   name: Adobe Creative Suite
 - description: 100%
-  icon: chart-line
+  icon: fab fa-google
+  icon_pack: fab
+  name: Google Suite 
+- description: 70%
+  icon: fas fa-code
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: HTML Code
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
