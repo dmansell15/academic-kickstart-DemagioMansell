@@ -45,6 +45,15 @@ experience:
     date_end: '2021-08-20'
     description: Assist Sales Representatives and Digital Strategists with YoY growth of digital revenue across high profile accounts through digital, social media, and campaign management.
 
+     - title: Publisher Account Manager
+    company: Playwire Media
+    company_url: 'https://www.playwire.com/'
+    company_logo: 
+    location: Deerfield Beach, FL
+    date_start: '2018-05-18'
+    date_end: '2019-09-16'
+    description: Liaison between the network of publishers and departments within Playwire Media to execute daily objectives.
+
 design:
   columns: '2'
 ---
