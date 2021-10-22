@@ -26,24 +26,24 @@ experience:
     company: Gannett (USA Today)
     company_url: 'https://www.gannett.com/'
     company_logo: 
-    location: Orlando
-    date_start: '2021-08-20'
+    location: Orlando, FL
+    date_start: '2021-08-23'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Digital Advertising 
+        * Vendor Relations
+        * Fulfillment of Print Advertising
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Digital Campaign Manager
+    company: Tribune Publishing
+    company_url: 'https://www.orlandosentinel.com/'
+    company_logo: 
+    location: Deerfield Beach, FL
+    date_start: '2019-09-16'
+    date_end: '2021-08-20'
+    description: Assist Sales Representatives and Digital Strategists with YoY growth of digital revenue across high profile accounts through digital, social media, and campaign management.
 
 design:
   columns: '2'
