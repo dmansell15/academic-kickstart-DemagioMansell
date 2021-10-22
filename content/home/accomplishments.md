@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-06-26"
+- certificate_url: https://skillshop.exceedlms.com/student/award/bPwLKqQfJjLc4rImVCOxT9G2
+  date_end: "2021-06-26"
+  date_start: "2020-06-26"
   description: ""
   organization: Google
-  organization_url: 
+  organization_url: https://skillshop.exceedlms.com/student/catalog
   title: Google Ads Display Certification 
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://skillshop.exceedlms.com/student/award/XQJh689sFZ4QxOMgdHKp5lnC
+  date_end: "2021-04-30"
+  date_start: "2020-04-30"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Google
+  organization_url: https://skillshop.exceedlms.com/student/catalog
+  title: Google Ads Search Certification
+  url: ""
+- certificate_url: https://skillshop.exceedlms.com/student/award/QF9GEpj4Kg9MwjgyujN3dYdP
+  date_end: "2021-06-26"
+  date_start: "2020-06-26"
+  description: ""
+  organization: Google
+  organization_url: https://skillshop.exceedlms.com/student/catalog
+  title: 'Google Analytics Individual Qualification'
   url: ""
 
 design:
