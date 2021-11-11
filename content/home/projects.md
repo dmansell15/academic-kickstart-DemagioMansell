@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: 
+  - name: Coming Soon
     tag: 
   - name: 
     tag: Demo
