@@ -42,7 +42,7 @@ education:
 social:
 - icon: CV
   icon_pack: ai
-  link: 
+  link: uploads/resume.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DMans3ll
