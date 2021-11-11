@@ -40,15 +40,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: CV
-  icon_pack: ai
-  link: uploads/resume.pdf
+- icon: 
+  icon_pack: 
+  link: 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DMans3ll
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: 
-  link: 
+- icon: cv
+  icon_pack: ai
+  link: 'uploads/resume.pdf'
 - icon: 
   icon_pack: 
   link: 
