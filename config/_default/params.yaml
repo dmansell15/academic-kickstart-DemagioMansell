@@ -42,10 +42,10 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/DMans3ll'
-  - icon: 
-    icon_pack: 
-    name: 
-    link: ''
+  - icon: cv
+    icon_pack: ai
+    name: CV
+    link: 'uploads/resume.pdf'
   - icon: 
     icon_pack: 
     name: 
