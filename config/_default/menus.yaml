@@ -10,11 +10,11 @@ main:
   - name: Experiences
     url: '#Experiences'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Certifications
+    url: '#Certifications'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Projects
+    url: '#Projects'
     weight: 40
   - name: Publications
     url: '#featured'
