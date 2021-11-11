@@ -72,4 +72,4 @@ highlight_name: true
 
 Demagio Mansell is a Campaign Fulfillment Manager that has several years’ experience within the entertainment media from film, radio, to news. He holds a Master of Business Administration in Marketing from Nova Southern University, Master of Fine Arts from Full Sail University, and Bachelor of Business Administration from Florida Atlantic University in Management and Marketing. He has several years’ experience within the entertainment media from film, radio, to news. He is a first year PhD student in Text and Technology with a focus on exploring gay users use of social media in shaping media culture. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
